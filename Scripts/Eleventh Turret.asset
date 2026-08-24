@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae5d64bb0c7b48a489e8c82626d841f8, type: 3}
+  m_Name: Eleventh Turret
+  m_EditorClassIdentifier: Assembly-CSharp::TurretData
+  damage: 55
+  price: 55
+  fireRate: 1
+  speedOfBullet: 55
+  turretName: Titan
+  canRotate: 1
+  sprite: {fileID: 21300000, guid: 7f6fe16e8b4e78341b342f0f3e38ed60, type: 3}
+  model: {fileID: 9208994723476640693, guid: 9f9f65a89f235854aa964068019634d6, type: 3}
+  turretPlacer: {fileID: 6414676832106405940, guid: bc9b665d508dc4841b4a56fbaaf1c5ff, type: 3}

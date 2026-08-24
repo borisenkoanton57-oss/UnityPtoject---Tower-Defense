@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae5d64bb0c7b48a489e8c82626d841f8, type: 3}
+  m_Name: Second Turret
+  m_EditorClassIdentifier: Assembly-CSharp::TurretData
+  damage: 23
+  price: 23
+  fireRate: 0.8
+  speedOfBullet: 50
+  turretName: Ripper
+  canRotate: 1
+  sprite: {fileID: 21300000, guid: 59b65962d5447d940a4202836fd04f18, type: 3}
+  model: {fileID: 8798825662999157405, guid: a92e6a73033f6824e8cc80c92a8dc591, type: 3}
+  turretPlacer: {fileID: 4472470916496705873, guid: 0a4aee3eca966bf49a277087c0e5a41e, type: 3}

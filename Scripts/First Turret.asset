@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae5d64bb0c7b48a489e8c82626d841f8, type: 3}
+  m_Name: First Turret
+  m_EditorClassIdentifier: Assembly-CSharp::TurretData
+  damage: 22
+  price: 33
+  fireRate: 1
+  speedOfBullet: 75
+  turretName: Crusher
+  canRotate: 1
+  sprite: {fileID: 21300000, guid: b6ad8c904fc56c74ca13c9f5250f7fb4, type: 3}
+  model: {fileID: 7098780407583363374, guid: ac65e7c7731e3354bbcfc1748c7ba32b, type: 3}
+  turretPlacer: {fileID: 555701949957806814, guid: b106c7f47f444ca48b04051f08dc7aa2, type: 3}

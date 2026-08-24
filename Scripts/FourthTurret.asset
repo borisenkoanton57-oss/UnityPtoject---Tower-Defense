@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae5d64bb0c7b48a489e8c82626d841f8, type: 3}
+  m_Name: FourthTurret
+  m_EditorClassIdentifier: Assembly-CSharp::TurretData
+  damage: 250
+  price: 150
+  fireRate: 5
+  speedOfBullet: 100
+  turretName: Venom
+  canRotate: 0
+  sprite: {fileID: 21300000, guid: 9f279ca925bfd6d4f9135f9dbdbbf8ca, type: 3}
+  model: {fileID: 5717641242284706157, guid: 390366fddae7d8f49831dac69e0694e7, type: 3}
+  turretPlacer: {fileID: 2071987006702238748, guid: 0d7ac940de248054ea865eadff343bdd, type: 3}

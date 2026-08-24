@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae5d64bb0c7b48a489e8c82626d841f8, type: 3}
+  m_Name: SixthTurret
+  m_EditorClassIdentifier: Assembly-CSharp::TurretData
+  damage: 25
+  price: 50
+  fireRate: 1
+  speedOfBullet: 66
+  turretName: Volt
+  canRotate: 1
+  sprite: {fileID: 21300000, guid: a19d2f65875bbca429e6c8ac78787679, type: 3}
+  model: {fileID: 8628844064889351098, guid: 2975db778ef76b24a8a09fd3bfda8876, type: 3}
+  turretPlacer: {fileID: 8907787461759911252, guid: 43cadf1a8f346604b9e627f4c528a61e, type: 3}
